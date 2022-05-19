@@ -1,0 +1,4 @@
+---
+title: Uses of hexadecimal
+---
+

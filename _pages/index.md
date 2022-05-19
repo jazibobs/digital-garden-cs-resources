@@ -5,15 +5,23 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Learn CS for free
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Not sure where to begin? Check our <span style="font-weight: bold">[[Welcome Page]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+## Resources by course
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+- [[igcse|IGCSE Computer Science 0478]]
+- [[a-level]]
+- [[ib]]
+
+## Programming cheatsheets
+
+- [[python-cheat|Python cheatsheet]]
+- [[pseudo-cie|Pseudocode Cheatsheet for IGCSE and A Level]]
+- [[pseudo-ib|Pseudocode Cheatsheet for IB]]
 
 <style>
   .wrapper {
