@@ -14,8 +14,8 @@ permalink: /
 ## Resources by course
 
 - [[igcse|IGCSE Computer Science 0478]]
-- [[a-level]]
-- [[ib]]
+- [[a-level|A Level Computer Science 9618 (Coming soon...)]]
+- [[ib|IB Computer Science (Coming soon...)]]
 
 ## Programming cheatsheets
 

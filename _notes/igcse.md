@@ -21,3 +21,7 @@ title: IGCSE
 ## Course syllabus
 
 - [Cambridge IGCSE Computer Science 0478 (2023, 2024 and 2025)](/assets/pdf/IGCSE%20Computer%20Science%20Syllabus.pdf)
+
+## Extra links
+
+- [[Python Cheatsheet]]
