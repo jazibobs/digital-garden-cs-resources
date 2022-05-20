@@ -5,10 +5,10 @@ id: home
 permalink: /
 ---
 
-# Learn CS for free
+# Learn computer science for free
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Not sure where to begin? Check our <span style="font-weight: bold">[[Welcome Page]]</span> to get started on your exploration.
+  Not sure where to begin? Check our <span style="font-weight: bold">[[welcome page]]</span> to get started on your exploration.
 </p>
 
 ## Resources by course
@@ -22,9 +22,3 @@ permalink: /
 - [[python-cheat|Python cheatsheet]]
 - [[pseudo-cie|Pseudocode Cheatsheet for IGCSE and A Level]]
 - [[pseudo-ib|Pseudocode Cheatsheet for IB]]
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
