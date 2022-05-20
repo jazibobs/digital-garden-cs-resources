@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-Hello and welcome to [[index|computerscience.gg]], this website has been put together by [Jared Rigby](https://www.jaredrigby.co.uk), computer science teacher at [Dulwich College Beijing](https://beijing.dulwich.org).
+Hello and welcome to [[index|computerscience.gg]], this website has been put together by [Jared Rigby](https://www.jaredrigby.co.uk), a computer science teacher at [Dulwich College Beijing](https://beijing.dulwich.org).
 
 Throughout this site you will find a collection of resources covering theoretical and programming information for various high school computer science courses including [[IGCSE]], [[A Level]] and [[IB]].
 
