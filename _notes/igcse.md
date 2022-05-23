@@ -13,7 +13,7 @@ title: IGCSE
 
 ## Paper 2 - Algorithms, programming and logic
 
-- [[algorithm-design-problems|Algorithm design and programming]]
+- [[algorithm-design-problems|Algorithm design and problem-solving]]
 - [[programming|Programming]]
 - [[databases|Databases]]
 - [[boolean-logic|Boolean logic]]
