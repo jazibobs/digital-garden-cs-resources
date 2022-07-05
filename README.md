@@ -2,7 +2,7 @@
 
 # Digital garden of CS Resources
 
-Jekyll website of resources focused on IGCE, A-Level and IB Computer Science.
+Jekyll website of resources focused on IGCSE Computer Science.
 
 ## Details about the template
 
